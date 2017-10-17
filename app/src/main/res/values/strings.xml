@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MNISTClassifier</string>
+
+    <string name="text_clear">Clear</string>
+    <string name="text_detect">Detect</string>
+    <string name="text_you_draw">You\'ve drawn</string>
+
+</resources>
